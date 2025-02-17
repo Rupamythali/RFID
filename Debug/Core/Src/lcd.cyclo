@@ -1,0 +1,7 @@
+../Core/Src/lcd.c:13:7:LCD_string	2
+../Core/Src/lcd.c:21:7:LCD_init	1
+../Core/Src/lcd.c:38:8:PORTS_init	1
+../Core/Src/lcd.c:49:8:LCD_nibble_write	2
+../Core/Src/lcd.c:65:8:LCD_command	2
+../Core/Src/lcd.c:74:8:LCD_data	1
+../Core/Src/lcd.c:80:8:delay	3
